@@ -1,0 +1,20 @@
+﻿生成启动时间为 2014/6/7 15:24:54。
+     1>项目“C:\Users\dell\Desktop\MyEmailClient_1.2\MyEmailClient.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\MyEmailClient.pch" /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt POP3.cpp
+         POP3.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\MyEmailClient.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:".\Debug\MyEmailClient.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\MyEmailClient.lib" /MACHINE:X86 /SAFESEH .\Debug\MyEmailClient.res
+         .\Debug\Base64.obj
+         .\Debug\MailMessage.obj
+         .\Debug\MyEmailClient.obj
+         .\Debug\MyEmailClientDlg.obj
+         .\Debug\POP3.obj
+         .\Debug\SMTP.obj
+         .\Debug\StdAfx.obj
+         MyEmailClient.vcxproj -> C:\Users\dell\Desktop\MyEmailClient_1.2\.\Debug\MyEmailClient.exe
+     1>已完成生成项目“C:\Users\dell\Desktop\MyEmailClient_1.2\MyEmailClient.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.77
